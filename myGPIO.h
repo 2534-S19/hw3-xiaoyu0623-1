@@ -1,8 +1,8 @@
 /*
  * myGPIO.h
  *
- *  Created on:
- *      Author:
+ *  Created on: 3/2/2020
+ *      Author: Xiaoyu Hou
  *
  */
 
@@ -47,7 +47,7 @@ void turnOff_BoosterpackLEDGreen();
 void turnOn_BoosterpackLEDBlue();
 // This function turns off Boosterpack Blue LED.
 void turnOff_BoosterpackLEDBlue();
-
+void turnOff_all();
 // TODO: Define any constants that are local to myGPIO.c using #define
 
 
